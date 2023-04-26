@@ -27,3 +27,17 @@
 *.exe
 *.out
 *.app
+
+# 3rd tools
+.downloads/
+3rd/
+
+# toolkit
+toolkits/bc
+toolkits/bfs
+toolkits/pagerank
+toolkits/sssp
+toolkits/cc
+
+# vscode
+.vscode

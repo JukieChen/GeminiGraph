@@ -7,6 +7,9 @@ A compiler supporting **OpenMP** and **C++11** features (e.g. lambda expressions
 
 Implementations of five graph analytics applications (PageRank, Connected Components, Single-Source Shortest Paths, Breadth-First Search, Betweenness Centrality) are inclulded in the *toolkits/* directory.
 
+### Dependency
+mpich
+
 To build:
 ```
 make
